@@ -92,3 +92,26 @@ Yes! You can find them in the [Landing Page]([Build on Serverless Season 2 on AW
 ## License Summary
 
 This sample code is made available under the MIT-0 license. See the LICENSE file.
+
+
+<!--mutation flight1 {-->
+<!--    createFlight(input:{-->
+<!--        departureDate: "2019-11-11T08:00+0000",-->
+<!--        departureAirportCode: "LGW",-->
+<!--        departureAirportName: "London Gatwick",-->
+<!--        departureCity: "London",-->
+<!--        departureLocale: "Europe/London",-->
+<!--        arrivalDate: "2019-11-11T10:15+0000",-->
+<!--        arrivalAirportCode: "MAD",-->
+<!--        arrivalAirportName: "Madrid Barajas",-->
+<!--        arrivalCity: "Madrid",-->
+<!--        arrivalLocale: "Europe/Madrid",-->
+<!--        ticketPrice: 100,-->
+<!--        ticketCurrency: "EUR",-->
+<!--        flightNumber: 1830,-->
+<!--	seatAllocation: 10-->
+<!--    }) {-->
+<!--        id-->
+<!--    }-->
+<!--}-->
+
