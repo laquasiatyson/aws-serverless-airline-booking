@@ -224,7 +224,7 @@ export default {
         details: "",
         error: ""
       },
-      stripeKey: "pk_test_BpxANYCOZO7waMV3TrPQHjXa", // test key,
+      stripeKey: "sk_test_oc4spFcp3r8MZZGiIQduMwoo00G7TnagC2", // test key,   //pk_test_BpxANYCOZO7waMV3TrPQHjXa
       form: {
         name: "",
         country: "",
